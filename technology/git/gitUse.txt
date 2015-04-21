@@ -18,7 +18,7 @@ git push origin branchName
 //模块未完成前不需要和kcb_v1合并，不需要执行以下步骤
 git checkout kcb_v1
 git pull
-git merge branchName --no--ff
+git merge branchName --no-ff
 git status
 //如果有冲突则,解决冲突,：git commit -am "conflict_description"
 git push origin kcb_v1
