@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">学习Android5</string>
+    <string name="start">开始</string>
+    <string name="cardview">这是一个CardView</string>
+    <string name="title_activity_second">第二个Activity</string>
+    <string name="hello_world">你好!</string>
+
+</resources>
