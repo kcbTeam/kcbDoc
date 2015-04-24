@@ -1,0 +1,4 @@
+ctrl + l //跳转至指定的行
+ctrl + t //打开java类
+ctrl + shift + r //打开资源文件
+ctrl + h -> //搜索
