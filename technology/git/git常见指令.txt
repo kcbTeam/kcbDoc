@@ -1,0 +1,26 @@
+git status //查看状态。
+git add .  //添加所有改动。
+git branch //切换分支。
+git checkout -b newbranchname //创建并切换分支。
+git vim中 命令模式下输入 :x 退出编辑
+git log //历代打印版本信息。
+git reset --hard HEAD^ //版本回退一步，还有 HEAD^^ HEAD~100 等。
+git reset --hard af5dq //版本前进，af5d9是版本的SHA码
+git checkout -- filename //撤销工作区的上全部修改，退回至最近一次add 或 commit后的版本。
+git reset HEAD filename //把暂存区的修改撤销掉（unstage），重新放回工作区。
+
+git remote add origin git@github.com:githubName/repoName.git //关联到远程仓库.
+git push -u origin master //把本地内容推送到远程仓库。
+
+git checkout -b newBranchName //创建新的分支，并切换到该新分支
+git branch NewBranchName //创建新分支
+git checkout BranchName //切换到该分支
+git merge BranchName --no--ff//把BranchName分支和当前所处的分支合并。
+git stash //保存工作现场
+git stash list //查看已保存的工作现场
+git stash apply //恢复现场
+git stash drop //清除stash内容
+git stash pop //恢复现场 + 清除stash
+
+git remote //查看远程库的信息
+git remote -v //更详细的远程库信息
