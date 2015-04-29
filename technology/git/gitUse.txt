@@ -11,7 +11,7 @@ git clone git@github.com:kcbTeam/kcbDoc.git
 git checkout kcb_v1
 git pull
 git checkout -b branchName
-git checkout .  //  去掉eclipse中自动生成的文件
+git checkout .  //  modify 不需要的时候执行
 git add --all
 git commit -am "description"
 git push origin branchName
