@@ -3,6 +3,9 @@
 //时刻git status 
 //时刻git branch --all
 
+// 给远程仓库添加分支origin
+// git remote add origin git@github.com:michaelliao/learngit.git
+
 //克隆远程仓库,在本地空白文件夹下
 git clone git@github.com:kcbTeam/kcb.git
 git clone git@github.com:kcbTeam/kcbDoc.git
