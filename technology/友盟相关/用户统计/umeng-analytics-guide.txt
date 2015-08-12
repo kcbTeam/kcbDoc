@@ -1,0 +1,2 @@
+http://dev.umeng.com/analytics/android-doc/integration (集成用户统计和启动次数分析 开发文档)
+核心：将umeng-analytics-v5.5.3.jar正确的添加到工程的libs中并Add as library ；根据开发文档 添加集成代码即可

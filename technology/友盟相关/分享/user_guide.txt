@@ -1,0 +1,2 @@
+http://dev.umeng.com/social/android/quick-integration(集成社会化分享功能的  参考文档)
+核心内容：正确的将 umeng_android_social_sdk_4.3.0_custom\social_sdk_library_project 下的libs和res中的文件 添加入自己的工程 或是library 工程中
